@@ -3690,7 +3690,7 @@ const dialogueData = {
   projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
   Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. Learn more about how to use
   Kaboom.js by watching JSLegendDev tutorials <a href="https://www.youtube.com/@jslegenddev" target="_blank">here</a> and reading Koboom.JS documentation <a href="https://kaboomjs.com/doc/setup" target="_blank">here</a>`,
-  library: `There are a lot of programming books on my shelves. There is even one in French (I also speak French btw).
+  library: `There are a lot of programming books on my shelves.
   I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
   exit: `If you want to exit JSLegendDev's portfolio, just close the tab.`
 };
